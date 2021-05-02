@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/White/source/C_course/week1/task9.cpp
+iostream
+-
+vector
+-
+string
+-
+sstream
+-
+algorithm
+-
+numeric
+-
+array
+-
+

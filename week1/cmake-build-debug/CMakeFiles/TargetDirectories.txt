@@ -1,0 +1,13 @@
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/task01.dir
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/task02.dir
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/task03.dir
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/task04.dir
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/task05.dir
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/task06.dir
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/task07.dir
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/task08.dir
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/task09.dir
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/task10.dir
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/White/source/C_course/week1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
